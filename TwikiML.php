@@ -59,7 +59,6 @@ if (empty($_POST["Digits"])) {			//番号入力無い場合、音声ガイダンスを流す
  } else {
   $nxturl = $url."?n=".$gnum;
  }
-// if (!ereg($url,$nxturl)) {$nxturl = $url;}
  $response->Redirect($nxturl);
 }
 print $response;
