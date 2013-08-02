@@ -6,7 +6,7 @@
 ======================
 
 電話をかけるとwikiに登録したテキストを読み上げます。プッシュボタンで操作します。  
-稼動イメージ→http://shop.que.jp/p/view.html
+稼動イメージ→http://shop.que.jp/p/view.html  
 シンプルな電話の自動音声応答システム（IVR）ならProgrammable-Voiceで代用できるかも。  
 
 KinoWiki2.0とTwilioを使用します。  
