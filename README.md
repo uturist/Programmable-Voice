@@ -44,6 +44,7 @@ http://jp.twilio.com/docs/libraries
 ・Twilioのアカウント取得・URL登録  
 Twilio管理画面の電話番号設定ページにある「Voice Request URL」に、TwikiML.phpのURLを指定してください。  
 参考ページ：http://blog.twilio.kddi-web.com/2013/02/18/twilio-call-incomming/  
+ちなみにTwikiML.phpは参考ページのサンプルコードを参考にして作成しました。  
 
 
 ライセンス  
