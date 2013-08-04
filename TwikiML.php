@@ -1,4 +1,9 @@
 <?php
+//TwikiML.php 
+//https://github.com/uturist/Programmable-Voice 
+//Copyright 2013, uturist 
+//Released under the MIT License.
+
 header('Content-type: text/xml; charset=UTF-8');
 require("tw/Services/Twilio.php");				//Ý’è€–Ú(1)
 $response = new Services_Twilio_Twiml();
